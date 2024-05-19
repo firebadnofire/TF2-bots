@@ -2,6 +2,8 @@
 
 This repository contains a list of links to GitHub repositories, YouTube videos, and Discord servers related to specific software used for cheating in TF2.
 
+Bots file: [here](https://codeberg.org/firebadnofire/TF2-bots/src/branch/main/BOTS.md)
+
 ## Reporting Instructions
 
 ### GitHub
@@ -17,7 +19,7 @@ Instructions on how to report messages promoting cheating software on Discord ca
 The links provided in this repository are for informational purposes only. The inclusion of these links does not imply endorsement or approval of the software or activities described therein. The repository aims to facilitate reporting of content that potentially violates the terms of service of the respective platforms.
 
 ## License
-This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://codeberg.org/firebadnofire/TF2-bots/src/branch/main/LICENSE.md) license.
+This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://codeberg.org/firebadnofire/TF2-bots/src/branch/main/LICENSE) license.
 
 ## Legal
 For detailed legal information, please refer to the [LEGAL.md](https://codeberg.org/firebadnofire/TF2-bots/src/branch/main/LEGAL.md) document.
