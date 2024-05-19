@@ -2,6 +2,10 @@
 
 This repository contains a list of links to GitHub repositories, YouTube videos, and Discord servers related to specific software used for cheating in TF2.
 
+This repo has been mirrored to [Codeberg](https://codeberg.org/firebadnofire/TF2-bots), [GitHub](https://github.com/firebadnofire/TF2-bots), and [GitLab](https://gitlab.com/firebadnofire/TF2-bots).
+
+I consider the [Codeberg](https://codeberg.org/firebadnofire/TF2-bots) version to be the "main" version.
+
 # The list
 
 Bots file: [here](https://codeberg.org/firebadnofire/TF2-bots/src/branch/main/BOTS.md)
