@@ -10,4 +10,6 @@ https://discord.com/channels/1139673027794186352/1147259141329535057/11472595179
 
 https://discord.com/channels/1139673027794186352/1155634327078580254/1155634414596923482 at https://discord.gg/XqBRXE5QVy
 
+https://github.com/c4thook/HexatronicPartyCrasher
+
 I also advise using Discord's search function to look for various ToS violations like use of racial slurs.
